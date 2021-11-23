@@ -11,6 +11,7 @@ Note : Mengatur waktu && memberhentikan alarm hanya bisa di lakukan melalui Term
 
 # usage
 ```php
+$ apt update && apt upgrade -y
 $ apt install setterm
 $ apt install git
 $ apt install termux-api
