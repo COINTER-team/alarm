@@ -1,7 +1,9 @@
 ![tol](https://img.shields.io/badge/Code-BY%20POLYGON-yellowgreen)
 ![tol](https://img.shields.io/github/watchers/COINTER-team/bot-rand?color=green&logoColor=black&style=social)
 ![tol](https://img.shields.io/badge/Code-Bash%20shell-green)
-<p align="center"><h1>Termux Alarm ⏰</h1></p>
+<div align="center">
+  <h1>Termux Alarm ⏰</h1>
+</div>
 
 
 ```php
