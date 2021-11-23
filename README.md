@@ -8,7 +8,7 @@
 <h3> Sebuah alarm yang akan ter-triger saat telah mencapai waktu yang telah di tentukan akan menyala berupa getaran</h3>
 Note : Mengatur waktu && memberhentikan alarm hanya bisa di lakukan melalui Terminal / Termux;
 
-
+#usage
 ```php
 $ apt install setterm
 $ apt install git
