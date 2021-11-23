@@ -5,8 +5,8 @@
   <h1>Termux Alarm ⏰</h1>
 </div>
 
-<p style="font-size: 20px;"> Sebuah alarm yang akan ter-triger saat telah mencapai waktu yang telah di tentukan akan menyala berupa getaran</p>
-```Note``` : Setting waktu dan memberhentikan alarm hanya bisa melalui terminal / termux;
+<font size="3"> Sebuah alarm yang akan ter-triger saat telah mencapai waktu yang telah di tentukan akan menyala berupa getaran</font>
+<font color="red">Note</font> : <font color="green">Setting waktu dan memberhentikan alarm hanya bisa melalui terminal / termux;</font>
 
 
 ```php
