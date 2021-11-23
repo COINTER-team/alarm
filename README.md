@@ -1,7 +1,7 @@
 ![tol](https://img.shields.io/badge/Code-BY%20POLYGON-yellowgreen)
 ![tol](https://img.shields.io/github/watchers/COINTER-team/bot-rand?color=green&logoColor=black&style=social)
 ![tol](https://img.shields.io/badge/Code-Bash%20shell-green)
-![tol](https://img.shields.io/github/languages/code-size/COINTER-team/bot-rand?color=blue&style=plastic
+![tol](https://img.shields.io/github/languages/code-size/COINTER-team/alarm?color=blue&style=plastic
 <p align="center"><h1>Termux Alarm ⏰</h1></p>
 
 
