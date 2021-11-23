@@ -1,2 +1,5 @@
-# alarm
-alarm using bourne again shell
+
+```php
+$ apt install setterm
+$ apt install git
+```
