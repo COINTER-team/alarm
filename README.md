@@ -5,8 +5,8 @@
   <h1>Termux Alarm ⏰</h1>
 </div>
 
-<h3> Sebuah alarm yang akan ter-triger saat telah mencapai waktu yang telah di tentukan akan menyala berupa getaran</h3>
-<p>cocok untuk kamu yang memang susah bangun pagi :v </br>
+<p> <strong>Sebuah alarm yang akan ter-triger saat telah mencapai waktu yang telah di tentukan akan menyala berupa getaran</strong>
+cocok untuk kamu yang memang susah bangun pagi :v </br>
 Note : Mengatur waktu && memberhentikan alarm hanya bisa di lakukan melalui Terminal / Termux; </p>
 
 # usage
