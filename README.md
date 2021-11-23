@@ -22,3 +22,7 @@ $ bash alarm
 
 simple.usage
 
+<h4> Jangan lupa kunjungi sosial media kami !</h4>
+<a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
+  <img align="left" alt="Menu" width="80px" src="https://github.com/Bayu12345677/tolol/blob/main/5296522_youtube_youtube%20logo_icon.svg" />
+</a>
